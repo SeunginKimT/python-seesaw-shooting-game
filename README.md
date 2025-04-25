@@ -37,5 +37,5 @@ A simple two stage object-oriented Python shooting game with seesaw physics and 
 - **IDE**: PyCharm
 
 ## Author
-- Created by Seungin Kim T  
-GitHub: [SeunginKimT](https://github.com/SeunginKimT)
+- Created by Seungin Kim T
+- GitHub: [SeunginKimT](https://github.com/SeunginKimT)
